@@ -4,3 +4,14 @@ In this paper, we study a physics-informed algorithm for Wasserstein Generative 
 
 
 #### For more details, please refer to the paper and the tutorial codes (.ipynb file) of four examples.
+
+
+### Citation
+'''
+@article{gao2021wasserstein,
+  title={Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks},
+  author={Gao, Yihang and Ng, Michael K},
+  journal={arXiv preprint arXiv:2108.13054},
+  year={2021}
+}
+'''
